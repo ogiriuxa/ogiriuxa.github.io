@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ogiriuxa.github.io/Bfx/sitemap_index.txt
+Sitemap: https://ogiriuxa.github.io/PHe/sitemap_index.txt
+Sitemap: https://ogiriuxa.github.io/XHo/sitemap_index.txt
+Sitemap: https://ogiriuxa.github.io/YSW/sitemap_index.txt
